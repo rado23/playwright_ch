@@ -13,19 +13,19 @@ This test plan outlines the **strategy, scope, and objectives** for the Playwrig
 ## Test Scope
 
 ### **In-Scope**
-✅ **Functional Tests:**
+**Functional Tests:**
 - Homepage accessibility and loading
 - Contact Us form submission
 
-✅ **Non-Functional Tests:**
+**Non-Functional Tests:**
 - **Performance:** Ensure page load time is within acceptable limits
 - **Accessibility:** Detect violations using `axe-core`
 - **Security:** Check for mixed-content issues and JavaScript errors
 - **Responsive UI:** Verify layout on different screen sizes
 
 ### **Out-of-Scope**
-🚫 **External API Testing** (e.g., third-party integrations)
-🚫 **End-to-End Payment Processing** (not part of this assessment)
+**External API Testing** (e.g., third-party integrations)
+**End-to-End Payment Processing** (not part of this assessment)
 
 ---
 
@@ -41,7 +41,7 @@ The test suite follows the **UI Automation Testing approach** with Playwright.
 
 ---
 
-## 📌 Test Scenarios
+## Test Scenarios
 
 ### **1️⃣ Functional Tests**
 | Test Case ID | Scenario | Expected Result |
