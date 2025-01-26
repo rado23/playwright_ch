@@ -18,7 +18,7 @@ viewports.forEach(viewport => {
         await expect(page.locator('h1', { hasText: 'Welcome to Restful Booker Platform' })).toBeVisible();
 
         // Capture a screenshot for review
-        await page.screenshot({ path: `screenshots/${viewport.name}.png` });
+        await page.screenshot({ path: `responsive_ui_screenshots/${viewport.name}.png` });
 
         console.log(`✅ Responsive test passed for ${viewport.name}`);
     });
