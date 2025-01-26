@@ -18,11 +18,25 @@ playwright-ch/
 ├── playwright.config.ts      # Playwright configuration file
 ├── global-setup.ts           # Global setup file
 ├── tsconfig.json             # TypeScript configuration
+├── TEST_PLAN.md              # Detailed test plan for the suite
 ├── package.json              # Dependencies and scripts
 ├── README.md                 # This documentation file
 ```
 
 ---
+## **Test Plan**
+The test plan is documented in **TEST_PLAN.md** and outlines:
+- **Objectives & Scope** (Functional & Non-Functional Testing)
+- **Test Approach & Tools**
+- **Test Scenarios & Expected Results**
+- **Execution Strategy** (How to run tests)
+- **Reporting & Bug Tracking**
+- **Test Schedule & Deliverables**
+
+For detailed information, refer to **[TEST_PLAN.md](TEST_PLAN.md)**.
+
+---
+
 ## **Installation & Setup**
 
 ### **1️⃣ Prerequisites**
