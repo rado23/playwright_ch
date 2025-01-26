@@ -23,10 +23,6 @@ This test plan outlines the **strategy, scope, and objectives** for the Playwrig
 - **Security:** Check for mixed-content issues and JavaScript errors
 - **Responsive UI:** Verify layout on different screen sizes
 
-### **Out-of-Scope**
-**External API Testing** (e.g., third-party integrations)
-**End-to-End Payment Processing** (not part of this assessment)
-
 ---
 
 ## Test Approach
