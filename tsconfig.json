@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "module": "NodeNext",  // Ensure Node.js module resolution
+      "moduleResolution": "NodeNext",
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports": true,
+      "types": ["node"]  // Ensure Node.js types are included
+    }
+  }
+  

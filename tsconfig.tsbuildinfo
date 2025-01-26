@@ -1,0 +1,1 @@
+{"root":["./playwright.config.ts","./tests/accessibility.spec.ts","./tests/homepage.spec.ts","./tests/performance.spec.ts","./tests/responsive_ui.spec.ts","./tests/security.spec.ts"],"version":"5.7.3"}
